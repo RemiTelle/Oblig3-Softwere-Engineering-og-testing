@@ -2,8 +2,8 @@
 
 Oblig 3 - git og continuous integration
 
-jeg opprettet dette repositoret og lastet opp oblig 2.
-For å settte opp GitHub Actions la jeg til en ny fil .github/workflows/tests.yml.
+Jeg opprettet dette repositoret og lastet opp filene fra Oblig 2.
+For å settte opp GitHub Actions la jeg til filen: .github/workflows/tests.yml.
 Derreter brukte jeg https://docs.github.com/en/actions for å skrive korrekt syntax for yml filen. 
 
 yml koden:
